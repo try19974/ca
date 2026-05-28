@@ -1,0 +1,7 @@
+pyrealsense2>=2.55.1.6486
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+onnx==1.21.0
+onnxruntime==1.23.2
+onnxslim==0.1.94
