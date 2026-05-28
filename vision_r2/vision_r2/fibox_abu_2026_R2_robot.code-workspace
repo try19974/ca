@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "fibox_abu_2026_R2_robot",
+			"path": "../../../.."
+		},
+		{
+			"name": "camra",
+			"path": "../../../../../camra"
+		}
+	],
+	"settings": {
+		"python-envs.pythonProjects": [
+			{
+				"path": "ros2_ws/src/r2_vision/r2_vision",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip",
+				"workspace": "fibox_abu_2026_R2_robot"
+			}
+		]
+	}
+}
